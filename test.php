@@ -3,4 +3,5 @@
 echo "Hello world!";
 
 This is the alpha file
+Now it's the beta!
 ?>
